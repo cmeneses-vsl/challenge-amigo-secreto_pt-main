@@ -1,1 +1,1 @@
-Exercicio projeto jogo amigo secreto
+Exercicio projeto amigo secreto
